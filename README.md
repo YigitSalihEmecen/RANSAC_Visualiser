@@ -54,7 +54,6 @@ This Unity project simulates Lidar data and visualizes the **RANSAC (Random Samp
 | `simulationSpeed` | Controls the speed of the RANSAC process. |
 
 ## Future Improvements
-- Implement additional **RANSAC models** (e.g., circle fitting).
 - Improve UI for a more intuitive experience.
 - Export inlier/outlier data for analysis.
 
